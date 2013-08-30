@@ -1,0 +1,8 @@
+{
+  "modules" : { 
+    "relance"  : {
+      "description": "Sarah se relance toute seule",
+      "version"    : "1.0"
+    }
+  }
+}
