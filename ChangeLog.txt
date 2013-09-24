@@ -1,0 +1,10 @@
+SARAH-Plugin-Relance
+-------------------
+
+Author: Alban Vidal-Naquet (albanvn@gmail.com)
+SARAH project: http://encausse.wordpress.com/s-a-r-a-h/
+
+V1.0 @1/8/2013
+--------------
+
+First version
